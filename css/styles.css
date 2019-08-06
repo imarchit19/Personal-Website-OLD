@@ -184,3 +184,8 @@ a:hover {
 .mountain-img {
   opacity: 0.7;
 }
+
+#carouselExampleIndicators {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
