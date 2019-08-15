@@ -1,5 +1,5 @@
 /*Scroll transition to anchor*/
-$("a.toscroll").on('click', function (e) {
+$("body.toscroll").on('click', function (e) {
     var url = e.target.href;
     var hash = url.substring(url.indexOf("#") + 1);
     $('html, body').animate({
