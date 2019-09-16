@@ -166,6 +166,13 @@ a:hover {
   padding: 20px 0 20px;
 }
 
+p .copyright {
+  font-size: 1em;
+  font-family: 'Merriweather', serif;
+  padding: 0px;
+  margin: 0;
+}
+
 .personal {
   background-color: #E4F6F6;
 }
